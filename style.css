@@ -1,0 +1,33 @@
+
+body {
+  background-color: tan;
+}
+
+
+#game div {
+  border: 1px solid black;
+  width: 25%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+}
+
+#score {
+  font-size: 5rem;
+  align-items: center;
+  color: brown;
+}
+
+h1 {
+  font-size: 7rem;
+  color: brown;
+}
+
+.restart {
+  color: white;
+  background-color: brown;
+  height: 6rem;
+  width: 20rem;
+  font-size: 2rem;
+
+}
